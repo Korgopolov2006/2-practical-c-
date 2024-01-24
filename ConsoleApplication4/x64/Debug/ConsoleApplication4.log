@@ -1,0 +1,10 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\1\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(26,17): warning C4101: back: неиспользованная локальная переменная
+C:\Users\1\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(37,17): warning C4101: back: неиспользованная локальная переменная
+C:\Users\1\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(47,17): warning C4101: back: неиспользованная локальная переменная
+C:\Users\1\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(58,17): warning C4101: back: неиспользованная локальная переменная
+C:\Users\1\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(68,20): warning C4101: back: неиспользованная локальная переменная
+C:\Users\1\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(84,21): warning C4101: back: неиспользованная локальная переменная
+C:\Users\1\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(115,14): warning C4101: back: неиспользованная локальная переменная
+C:\Users\1\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(124,21): warning C4101: back: неиспользованная локальная переменная
+  ConsoleApplication4.vcxproj -> C:\Users\1\source\repos\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
